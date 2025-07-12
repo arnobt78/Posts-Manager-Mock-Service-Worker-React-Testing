@@ -1,4 +1,6 @@
-# Posts Manager with Mock Service Worker & React Testing
+# Posts Manager with Mock Service Worker & React Testing (Vitest)
+
+<img width="764" height="398" alt="Screenshot 2025-06-18 at 14 28 00" src="https://github.com/user-attachments/assets/52be275d-618c-4590-b9a4-453cb3aa52cc" /> <img width="804" height="236" alt="Screenshot 2025-06-18 at 14 27 45" src="https://github.com/user-attachments/assets/d9b6d9c9-3449-49e0-a478-55bd4ccdbbe5" />
 
 ---
 
